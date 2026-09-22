@@ -1,0 +1,12 @@
+node_modules/
+.vercel/
+.nitro/
+screenshots/
+artifacts/
+.grok/
+*.png
+*.jpg
+*.webp
+*.mp4
+.node_modules.lock
+package-lock.json
